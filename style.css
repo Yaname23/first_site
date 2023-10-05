@@ -1,0 +1,28 @@
+body {
+    background-color: rgba(76, 76, 249, 0.128);
+}
+
+h1 {
+    color: rgb(98, 0, 255);
+    font-family: "rondo-ancientone";
+}
+
+h2 {
+    color: rgb(94, 13, 85);
+    font-family: "rondo-ancientone";
+}
+
+h4 {
+    color: rgb(28, 78, 28);
+}
+a {
+    color: green;
+}
+
+hr {
+    border-color: green;
+}
+@font-face {
+    font-family: "rondo-ancientone";
+    src: url(rondo-ancientone.ttf);
+    } 
